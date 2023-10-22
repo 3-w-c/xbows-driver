@@ -51,7 +51,7 @@ int keymap_assign[MAX_KEYCODE] = {
   // Not on xbows kbd
   0xff, 0xff, 0xff,		// Home End Insert
   // 102nd (\|)
-  132,
+  0xff,
   // Function key
   0xff				// Fn
 };

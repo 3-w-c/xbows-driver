@@ -221,7 +221,7 @@ void init_namemap() {
   namemap["End"] = K_End;
   namemap["Insert"] = K_Ins;
 
-  namemap["102ND"] = K_102;
+  namemap["102ND"] = K_102ND;
 
   // Not on xbows kbd
   namemap["Fn"] = K_Fn;
